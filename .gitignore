@@ -1,0 +1,15 @@
+# Neuroimaging data
+*.nii
+*.nii.gz
+
+# Large generated data
+data/
+datasets/
+
+# Build
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
