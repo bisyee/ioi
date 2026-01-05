@@ -18,7 +18,7 @@ This project extends existing work in Information Design and Neuroinformatics by
 
 ---
 
-## 📦 Installation & Setup
+##  Installation & Setup
 
 1. **Clone the repository**
    ```bash
